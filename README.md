@@ -18,13 +18,13 @@ En este ejercicio, aprenderás a utilizar los comandos básicos de Mongo para ob
 El fichero es animals.json
 
 ✔️ Tareas a Realizar
-1. Listar Todos los Animales: Escribe una consulta de MongoDB para listar todos los documentos de animales en la colección.
-2. Encontrar Animales por Tipo: Encuentra todos los animales que son del tipo "Mammal" (Mamífero).
-3. Animales en un Hábitat Específico: Lista todos los animales que viven en el hábitat "Forest" (Bosque).
-4. Cantidad de Animales en Peligro: Cuenta cuántos animales tienen un estado de conservación "Endangered" (En Peligro).
-5. Animales con Características Físicas Específicas: Encuentra animales que pesen más de 100 kg.
-6. Países con Animales Específicos: Lista todos los animales que se encuentran en "Australia".
-7. Actualizar el Estado de Conservación: Actualiza el estado de conservación de un animal específico a "Critically Endangered" (En Peligro Crítico).
-8. Listar Animales por Dieta y Tipo: Encuentra todos los animales "Carnivore" (Carnívoros) que son "Birds" (Aves).
-9. Animales Ordenados por Altura: Lista todos los animales ordenados por altura en orden descendente.
-10. Animales con Descripciones Largas: Encuentra animales donde el campo longDescription contenga más de 100 palabras.
+1. Realiza un $lookup para unir cada publicación con sus comentarios relacionados.
+2. Usa un $lookup para contar el número total de comentarios de cada publicación.
+3. Encuentra las publicaciones que tienen el mayor número de comentarios.
+4. Muestra los títulos de las publicaciones junto con los comentarios, sin los detalles de la publicación.
+5. Une las publicaciones con los comentarios y filtra los comentarios posteriores a una fecha específica.
+6. Usa $lookup para agregar todos los comentarios de un autor específico.
+7. Encuentra todas las publicaciones que no tienen comentarios.
+8. Encuentra el comentario más reciente para cada publicación.
+9. Lista los autores de las publicaciones con sus comentarios.
+10. Identifica los principales comentaristas en cada publicación, basado en la cantidad de comentarios que han dejado.
