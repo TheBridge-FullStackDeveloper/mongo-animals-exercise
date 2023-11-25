@@ -18,13 +18,19 @@ En este ejercicio, aprenderás a utilizar los comandos básicos de Mongo para ob
 El fichero es animals.json
 
 ✔️ Tareas a Realizar
-1. Realiza un $lookup para unir cada publicación con sus comentarios relacionados.
-2. Usa un $lookup para contar el número total de comentarios de cada publicación.
-3. Encuentra las publicaciones que tienen el mayor número de comentarios.
-4. Muestra los títulos de las publicaciones junto con los comentarios, sin los detalles de la publicación.
-5. Une las publicaciones con los comentarios y filtra los comentarios posteriores a una fecha específica.
-6. Usa $lookup para agregar todos los comentarios de un autor específico.
-7. Encuentra todas las publicaciones que no tienen comentarios.
-8. Encuentra el comentario más reciente para cada publicación.
-9. Lista los autores de las publicaciones con sus comentarios.
-10. Identifica los principales comentaristas en cada publicación, basado en la cantidad de comentarios que han dejado.
+1. Encuentra todos los animales con el tipo "Ave".
+2. Lista todos los animales encontrados en "Australia".
+3. Recupera los animales con un estado_de_conservación de "En Peligro Crítico".
+4. Selecciona los animales que son "Herbívoros" y tienen un hábitat de "Bosque".
+5. Obtén todos los animales con un peso superior a 400 kg.
+6. Busca todos los animales con una altura inferior a 1 metro.
+7. Consulta por animales que tienen "China" en su lista de países_donde_se_encuentran.
+8. Encuentra animales con una dieta de "Omnívoro" y un estado_de_conservación de "En Peligro".
+9. Muestra todos los animales que tienen "León" en su nombre_común.
+10. Extrae todas las entradas que tienen una longitud mayor a 2 metros.
+11. Filtra los animales que tienen una longevidad de más de 20 años.
+12. Encuentra los animales que tienen "África" en su lista de países_donde_se_encuentran.
+13. Lista todos los animales cuyo nombre_científico comienza con la letra "A".
+14. Busca animales que son "Carnívoros" y tienen un peso inferior a 50 kg.
+15. Recupera todos los animales que tienen un estado_de_conservación de "Vulnerable" y un hábitat de "Desierto".
+16. Encuentra los animales cuyo nombre_común contiene la palabra "Tigre".
