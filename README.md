@@ -28,9 +28,8 @@ El fichero es animals.json
 8. Encuentra animales con una dieta de "Omnívoro" y un estado_de_conservación de "En Peligro".
 9. Muestra todos los animales que tienen "León" en su nombre_común.
 10. Extrae todas las entradas que tienen una longitud mayor a 2 metros.
-11. Filtra los animales que tienen una longevidad de más de 20 años.
-12. Encuentra los animales que tienen "África" en su lista de países_donde_se_encuentran.
-13. Lista todos los animales cuyo nombre_científico comienza con la letra "A".
-14. Busca animales que son "Carnívoros" y tienen un peso inferior a 50 kg.
-15. Recupera todos los animales que tienen un estado_de_conservación de "Vulnerable" y un hábitat de "Desierto".
-16. Encuentra los animales cuyo nombre_común contiene la palabra "Tigre".
+11. Encuentra los animales que tienen "África" en su lista de países_donde_se_encuentran.
+12. Lista todos los animales cuyo nombre_científico comienza con la letra "A".
+13. Busca animales que son "Carnívoros" y tienen un peso inferior a 50 kg.
+14. Recupera todos los animales que tienen un estado_de_conservación de "Vulnerable" y un hábitat de "Desierto".
+15. Encuentra los animales cuyo nombre_común contiene la palabra "Tigre".
