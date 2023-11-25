@@ -86,4 +86,4 @@ db.animals.find({
   $and: [{ habitat: "Desert" }, { conservation_status: "Vulnerable" }],
 });
 
-db.animals.find({ common_name: { $regex: "^Tiger" } });
+db.animals.find({ common_name: { $regex: "Tiger" } });
