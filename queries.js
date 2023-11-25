@@ -65,8 +65,6 @@ db.Animals_exercise.aggregate([
   }
 ]);
 
-//ejercico 11 no se puede hacer 
-
 db.Animals_exercise.find({"found_in_countries.":{$regex: "Africa" }});
 
 db.Animals_exercise.find({scientific_name:{$regex: "^A"}});
