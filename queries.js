@@ -70,48 +70,34 @@ db.Animals_exercise.find({"found_in_countries.":{$regex: "Africa" }});
 db.Animals_exercise.find({scientific_name:{$regex: "^A"}});
 
 db.Animals_exercise.find([
-    {
-      $addFields: {
-        "physical_characteristics.weight": {
-          $toDouble: {
-            $replaceAll: {
-              input:
-                "$physical_characteristics.weight",
-              find: " kg",
-              replacement: "",
-            },
+  {
+    $match: {
+      diet: "Carnivore",
+    },
+  },
+  {
+    $addFields: {
+      "physical_characteristics.weight": {
+        $toDouble: {
+          $replaceAll: {
+            input: "$physical_characteristics.weight",
+            find: " kg",
+            replacement: "",
           },
         },
       },
     },
-    {
-      $match:
-        
-        {
-          "physical_characteristics.weight": {
-            $lt: 50,
-          },
-        },
+  },
+  {
+    $match: {
+      "physical_characteristics.weight": {
+        $lt: 50,
+      },
     },
-  ]);
+  },
+]);
 
   db.Animals_exercise.find ({$and:[{conservation_status:"Vulnerable"},{habitat:"Desert"}]});
 
   db.Animals_exercise.find({common_name: {$regex: "^Tiger" }});
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
