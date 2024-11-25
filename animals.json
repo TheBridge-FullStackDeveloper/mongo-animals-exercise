@@ -1,17 +1,17 @@
 [
     {
         "_id": 1,
-        "common_name": "Lion 1",
-        "scientific_name": "Species1 genus1",
+        "common_name": "Eagle",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
-        "habitat": "Ocean",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Lion 1.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.18 m",
-            "weight": "456.86 kg",
-            "length": "1.48 m"
+            "height": 18,
+            "weight": 4302,
+            "length": 82
         },
         "found_in_countries": [
             "China",
@@ -20,17 +20,17 @@
     },
     {
         "_id": 2,
-        "common_name": "Butterfly 2",
-        "scientific_name": "Species2 genus2",
+        "common_name": "Newt",
+        "scientific_name": "Ichthyophis",
         "type": "Amphibian",
         "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Eagle 2.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.89 m",
-            "weight": "461.88 kg",
-            "length": "1.06 m"
+            "height": 12,
+            "weight": 3743,
+            "length": 15
         },
         "found_in_countries": [
             "Canada",
@@ -39,17 +39,17 @@
     },
     {
         "_id": 3,
-        "common_name": "Frog 3",
-        "scientific_name": "Species3 genus3",
+        "common_name": "Ant",
+        "scientific_name": "Coleoptera",
         "type": "Insect",
         "habitat": "Grassland",
-        "diet": "Omnivore",
+        "diet": "Herbivore",
         "description": "Description of Shark 3.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.14 m",
-            "weight": "323.96 kg",
-            "length": "2.55 m"
+            "height": 2,
+            "weight": 80,
+            "length": 2
         },
         "found_in_countries": [
             "China",
@@ -58,17 +58,17 @@
     },
     {
         "_id": 4,
-        "common_name": "Eagle 4",
-        "scientific_name": "Species4 genus4",
+        "common_name": "Sparrow",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
         "habitat": "Forest",
-        "diet": "Herbivore",
+        "diet": "Omnivore",
         "description": "Description of Lizard 4.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.96 m",
-            "weight": "431.00 kg",
-            "length": "1.82 m"
+            "height": 10,
+            "weight": 2880,
+            "length": 111
         },
         "found_in_countries": [
             "South Africa",
@@ -77,17 +77,17 @@
     },
     {
         "_id": 5,
-        "common_name": "Lion 5",
-        "scientific_name": "Species5 genus5",
+        "common_name": "Deer",
+        "scientific_name": "Ursus arctos",
         "type": "Mammal",
-        "habitat": "Forest",
+        "habitat": "Savannah",
         "diet": "Herbivore",
         "description": "Description of Frog 5.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.12 m",
-            "weight": "150.76 kg",
-            "length": "2.51 m"
+            "height": 387,
+            "weight": 508199,
+            "length": 228
         },
         "found_in_countries": [
             "Russia",
@@ -96,17 +96,17 @@
     },
     {
         "_id": 6,
-        "common_name": "Shark 6",
-        "scientific_name": "Species6 genus6",
+        "common_name": "Ant",
+        "scientific_name": "Caelifera",
         "type": "Insect",
         "habitat": "Grassland",
         "diet": "Herbivore",
         "description": "Description of Butterfly 6.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.69 m",
-            "weight": "458.75 kg",
-            "length": "2.72 m"
+            "height": 2,
+            "weight": 79,
+            "length": 9
         },
         "found_in_countries": [
             "USA",
@@ -115,17 +115,17 @@
     },
     {
         "_id": 7,
-        "common_name": "Eagle 7",
-        "scientific_name": "Species7 genus7",
+        "common_name": "Eagle",
+        "scientific_name": "Columba livia",
         "type": "Bird",
-        "habitat": "Desert",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Lion 7.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.75 m",
-            "weight": "375.88 kg",
-            "length": "2.85 m"
+            "height": 13,
+            "weight": 3849,
+            "length": 99
         },
         "found_in_countries": [
             "South Africa",
@@ -134,17 +134,17 @@
     },
     {
         "_id": 8,
-        "common_name": "Butterfly 8",
-        "scientific_name": "Species8 genus8",
+        "common_name": "Parrot",
+        "scientific_name": "Passer domesticus",
         "type": "Bird",
         "habitat": "Forest",
-        "diet": "Herbivore",
+        "diet": "Omnivore",
         "description": "Description of Eagle 8.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.11 m",
-            "weight": "73.26 kg",
-            "length": "1.80 m"
+            "height": 50,
+            "weight": 2477,
+            "length": 37
         },
         "found_in_countries": [
             "South Africa",
@@ -153,17 +153,17 @@
     },
     {
         "_id": 9,
-        "common_name": "Lion 9",
-        "scientific_name": "Species9 genus9",
+        "common_name": "Trout",
+        "scientific_name": "Carcharodon carcharias",
         "type": "Fish",
-        "habitat": "Grassland",
+        "habitat": "Ocean",
         "diet": "Carnivore",
         "description": "Description of Shark 9.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.50 m",
-            "weight": "381.54 kg",
-            "length": "0.53 m"
+            "height": 25,
+            "weight": 118401,
+            "length": 324
         },
         "found_in_countries": [
             "Russia",
@@ -172,17 +172,17 @@
     },
     {
         "_id": 10,
-        "common_name": "Butterfly 10",
-        "scientific_name": "Species10 genus10",
+        "common_name": "Butterfly",
+        "scientific_name": "Apis mellifera",
         "type": "Insect",
-        "habitat": "Ocean",
-        "diet": "Omnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Lizard 10.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.89 m",
-            "weight": "201.11 kg",
-            "length": "0.70 m"
+            "height": 3,
+            "weight": 47,
+            "length": 8
         },
         "found_in_countries": [
             "South Africa",
@@ -191,17 +191,17 @@
     },
     {
         "_id": 11,
-        "common_name": "Lion 11",
-        "scientific_name": "Species11 genus11",
+        "common_name": "Ant",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
-        "habitat": "Forest",
-        "diet": "Omnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Frog 11.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.93 m",
-            "weight": "331.44 kg",
-            "length": "2.45 m"
+            "height": 1,
+            "weight": 94,
+            "length": 6
         },
         "found_in_countries": [
             "China",
@@ -210,17 +210,17 @@
     },
     {
         "_id": 12,
-        "common_name": "Butterfly 12",
-        "scientific_name": "Species12 genus12",
+        "common_name": "Bee",
+        "scientific_name": "Coleoptera",
         "type": "Insect",
-        "habitat": "Desert",
-        "diet": "Carnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Butterfly 12.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "2.35 m",
-            "weight": "72.23 kg",
-            "length": "0.76 m"
+            "height": 3,
+            "weight": 59,
+            "length": 6
         },
         "found_in_countries": [
             "Brazil",
@@ -229,17 +229,17 @@
     },
     {
         "_id": 13,
-        "common_name": "Frog 13",
-        "scientific_name": "Species13 genus13",
+        "common_name": "Owl",
+        "scientific_name": "Passer domesticus",
         "type": "Bird",
-        "habitat": "Swamp",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Lion 13.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.55 m",
-            "weight": "51.24 kg",
-            "length": "2.85 m"
+            "height": 18,
+            "weight": 3195,
+            "length": 108
         },
         "found_in_countries": [
             "Brazil",
@@ -248,17 +248,17 @@
     },
     {
         "_id": 14,
-        "common_name": "Lizard 14",
-        "scientific_name": "Species14 genus14",
+        "common_name": "Eagle",
+        "scientific_name": "Strix aluco",
         "type": "Bird",
-        "habitat": "Desert",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Eagle 14.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.42 m",
-            "weight": "491.00 kg",
-            "length": "1.73 m"
+            "height": 39,
+            "weight": 1011,
+            "length": 80
         },
         "found_in_countries": [
             "USA",
@@ -267,17 +267,17 @@
     },
     {
         "_id": 15,
-        "common_name": "Eagle 15",
-        "scientific_name": "Species15 genus15",
+        "common_name": "Goldfish",
+        "scientific_name": "Carassius auratus",
         "type": "Fish",
-        "habitat": "Grassland",
-        "diet": "Herbivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Shark 15.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.53 m",
-            "weight": "420.33 kg",
-            "length": "2.24 m"
+            "height": 8,
+            "weight": 165003,
+            "length": 22
         },
         "found_in_countries": [
             "China",
@@ -286,17 +286,17 @@
     },
     {
         "_id": 16,
-        "common_name": "Shark 16",
-        "scientific_name": "Species16 genus16",
+        "common_name": "Parrot",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
-        "habitat": "Savannah",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Lizard 16.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "2.15 m",
-            "weight": "376.61 kg",
-            "length": "1.33 m"
+            "height": 12,
+            "weight": 3684,
+            "length": 112
         },
         "found_in_countries": [
             "India",
@@ -305,17 +305,17 @@
     },
     {
         "_id": 17,
-        "common_name": "Shark 17",
-        "scientific_name": "Species17 genus17",
+        "common_name": "Tuna",
+        "scientific_name": "Carcharodon carcharias",
         "type": "Fish",
-        "habitat": "Savannah",
-        "diet": "Omnivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Frog 17.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.55 m",
-            "weight": "113.20 kg",
-            "length": "0.61 m"
+            "height": 11,
+            "weight": 195522,
+            "length": 444
         },
         "found_in_countries": [
             "South Africa",
@@ -324,17 +324,17 @@
     },
     {
         "_id": 18,
-        "common_name": "Lion 18",
-        "scientific_name": "Species18 genus18",
+        "common_name": "Tiger",
+        "scientific_name": "Cervus elaphus",
         "type": "Mammal",
-        "habitat": "Ocean",
+        "habitat": "Savannah",
         "diet": "Herbivore",
         "description": "Description of Butterfly 18.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "2.31 m",
-            "weight": "266.20 kg",
-            "length": "1.82 m"
+            "height": 328,
+            "weight": 180965,
+            "length": 161
         },
         "found_in_countries": [
             "China",
@@ -343,17 +343,17 @@
     },
     {
         "_id": 19,
-        "common_name": "Eagle 19",
-        "scientific_name": "Species19 genus19",
+        "common_name": "Frog",
+        "scientific_name": "Rana temporaria",
         "type": "Amphibian",
-        "habitat": "Desert",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Lion 19.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.59 m",
-            "weight": "436.43 kg",
-            "length": "0.58 m"
+            "height": 25,
+            "weight": 3362,
+            "length": 37
         },
         "found_in_countries": [
             "Australia",
@@ -362,17 +362,17 @@
     },
     {
         "_id": 20,
-        "common_name": "Frog 20",
-        "scientific_name": "Species20 genus20",
+        "common_name": "Deer",
+        "scientific_name": "Panthera tigris",
         "type": "Mammal",
-        "habitat": "Grassland",
-        "diet": "Omnivore",
+        "habitat": "Savannah",
+        "diet": "Herbivore",
         "description": "Description of Eagle 20.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.21 m",
-            "weight": "372.55 kg",
-            "length": "2.94 m"
+            "height": 364,
+            "weight": 144087,
+            "length": 259
         },
         "found_in_countries": [
             "India",
@@ -381,17 +381,17 @@
     },
     {
         "_id": 21,
-        "common_name": "Butterfly 21",
-        "scientific_name": "Species21 genus21",
+        "common_name": "Grasshopper",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
-        "habitat": "Desert",
-        "diet": "Omnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Shark 21.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.42 m",
-            "weight": "360.51 kg",
-            "length": "1.12 m"
+            "height": 2,
+            "weight": 74,
+            "length": 10
         },
         "found_in_countries": [
             "Australia",
@@ -400,17 +400,17 @@
     },
     {
         "_id": 22,
-        "common_name": "Lizard 22",
-        "scientific_name": "Species22 genus22",
+        "common_name": "Deer",
+        "scientific_name": "Panthera tigris",
         "type": "Mammal",
-        "habitat": "Desert",
+        "habitat": "Savannah",
         "diet": "Herbivore",
         "description": "Description of Lizard 22.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.26 m",
-            "weight": "375.37 kg",
-            "length": "1.63 m"
+            "height": 143,
+            "weight": 269235,
+            "length": 268
         },
         "found_in_countries": [
             "Canada",
@@ -419,17 +419,17 @@
     },
     {
         "_id": 23,
-        "common_name": "Shark 23",
-        "scientific_name": "Species23 genus23",
+        "common_name": "Beetle",
+        "scientific_name": "Caelifera",
         "type": "Insect",
         "habitat": "Grassland",
         "diet": "Herbivore",
         "description": "Description of Frog 23.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.03 m",
-            "weight": "496.21 kg",
-            "length": "0.88 m"
+            "height": 4,
+            "weight": 41,
+            "length": 5
         },
         "found_in_countries": [
             "Australia",
@@ -438,17 +438,17 @@
     },
     {
         "_id": 24,
-        "common_name": "Eagle 24",
-        "scientific_name": "Species24 genus24",
+        "common_name": "Crocodile",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Forest",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 24.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "2.34 m",
-            "weight": "361.29 kg",
-            "length": "2.16 m"
+            "height": 27,
+            "weight": 60531,
+            "length": 439
         },
         "found_in_countries": [
             "Russia",
@@ -457,17 +457,17 @@
     },
     {
         "_id": 25,
-        "common_name": "Shark 25",
-        "scientific_name": "Species25 genus25",
+        "common_name": "Pigeon",
+        "scientific_name": "Aquila chrysaetos",
         "type": "Bird",
-        "habitat": "Ocean",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Lion 25.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "0.50 m",
-            "weight": "72.07 kg",
-            "length": "0.85 m"
+            "height": 29,
+            "weight": 626,
+            "length": 16
         },
         "found_in_countries": [
             "USA",
@@ -476,17 +476,17 @@
     },
     {
         "_id": 26,
-        "common_name": "Butterfly 26",
-        "scientific_name": "Species26 genus26",
+        "common_name": "Snake",
+        "scientific_name": "Chelonia mydas",
         "type": "Reptile",
-        "habitat": "Forest",
+        "habitat": "Desert",
         "diet": "Carnivore",
         "description": "Description of Eagle 26.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.61 m",
-            "weight": "330.22 kg",
-            "length": "2.84 m"
+            "height": 47,
+            "weight": 84355,
+            "length": 209
         },
         "found_in_countries": [
             "USA",
@@ -495,17 +495,17 @@
     },
     {
         "_id": 27,
-        "common_name": "Lizard 27",
-        "scientific_name": "Species27 genus27",
+        "common_name": "Lizard",
+        "scientific_name": "Crocodylus niloticus",
         "type": "Reptile",
-        "habitat": "Swamp",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Shark 27.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.93 m",
-            "weight": "88.17 kg",
-            "length": "2.39 m"
+            "height": 8,
+            "weight": 60213,
+            "length": 157
         },
         "found_in_countries": [
             "Australia",
@@ -514,17 +514,17 @@
     },
     {
         "_id": 28,
-        "common_name": "Lizard 28",
-        "scientific_name": "Species28 genus28",
+        "common_name": "Tiger",
+        "scientific_name": "Cervus elaphus",
         "type": "Mammal",
-        "habitat": "Forest",
-        "diet": "Carnivore",
+        "habitat": "Savannah",
+        "diet": "Herbivore",
         "description": "Description of Lizard 28.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.40 m",
-            "weight": "340.70 kg",
-            "length": "0.50 m"
+            "height": 393,
+            "weight": 280761,
+            "length": 150
         },
         "found_in_countries": [
             "Brazil",
@@ -533,17 +533,17 @@
     },
     {
         "_id": 29,
-        "common_name": "Lion 29",
-        "scientific_name": "Species29 genus29",
+        "common_name": "Crocodile",
+        "scientific_name": "Lacerta agilis",
         "type": "Reptile",
-        "habitat": "Grassland",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Frog 29.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.55 m",
-            "weight": "138.24 kg",
-            "length": "2.93 m"
+            "height": 37,
+            "weight": 82239,
+            "length": 266
         },
         "found_in_countries": [
             "Canada",
@@ -552,17 +552,17 @@
     },
     {
         "_id": 30,
-        "common_name": "Lion 30",
-        "scientific_name": "Species30 genus30",
+        "common_name": "Lizard",
+        "scientific_name": "Python regius",
         "type": "Reptile",
-        "habitat": "Ocean",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 30.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.28 m",
-            "weight": "133.84 kg",
-            "length": "2.64 m"
+            "height": 8,
+            "weight": 74327,
+            "length": 368
         },
         "found_in_countries": [
             "USA",
@@ -571,17 +571,17 @@
     },
     {
         "_id": 31,
-        "common_name": "Lizard 31",
-        "scientific_name": "Species31 genus31",
+        "common_name": "Pigeon",
+        "scientific_name": "Passer domesticus",
         "type": "Bird",
-        "habitat": "Swamp",
-        "diet": "Carnivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Lion 31.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.70 m",
-            "weight": "194.66 kg",
-            "length": "0.99 m"
+            "height": 13,
+            "weight": 3922,
+            "length": 71
         },
         "found_in_countries": [
             "China",
@@ -590,17 +590,17 @@
     },
     {
         "_id": 32,
-        "common_name": "Frog 32",
-        "scientific_name": "Species32 genus32",
+        "common_name": "Toad",
+        "scientific_name": "Rana temporaria",
         "type": "Amphibian",
-        "habitat": "Grassland",
-        "diet": "Carnivore",
+        "habitat": "Swamp",
+        "diet": "Omnivore",
         "description": "Description of Eagle 32.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.60 m",
-            "weight": "82.54 kg",
-            "length": "1.27 m"
+            "height": 23,
+            "weight": 3939,
+            "length": 34
         },
         "found_in_countries": [
             "USA",
@@ -609,17 +609,17 @@
     },
     {
         "_id": 33,
-        "common_name": "Eagle 33",
-        "scientific_name": "Species33 genus33",
+        "common_name": "Tiger",
+        "scientific_name": "Cervus elaphus",
         "type": "Mammal",
-        "habitat": "Swamp",
-        "diet": "Carnivore",
+        "habitat": "Savannah",
+        "diet": "Herbivore",
         "description": "Description of Shark 33.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "2.21 m",
-            "weight": "286.46 kg",
-            "length": "1.20 m"
+            "height": 70,
+            "weight": 478698,
+            "length": 167
         },
         "found_in_countries": [
             "India",
@@ -628,17 +628,17 @@
     },
     {
         "_id": 34,
-        "common_name": "Eagle 34",
-        "scientific_name": "Species34 genus34",
+        "common_name": "Parrot",
+        "scientific_name": "Columba livia",
         "type": "Bird",
-        "habitat": "Swamp",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Lizard 34.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "2.00 m",
-            "weight": "254.08 kg",
-            "length": "0.99 m"
+            "height": 18,
+            "weight": 468,
+            "length": 49
         },
         "found_in_countries": [
             "Canada",
@@ -647,17 +647,17 @@
     },
     {
         "_id": 35,
-        "common_name": "Frog 35",
-        "scientific_name": "Species35 genus35",
+        "common_name": "Bee",
+        "scientific_name": "Formicidae",
         "type": "Insect",
-        "habitat": "Ocean",
+        "habitat": "Grassland",
         "diet": "Herbivore",
         "description": "Description of Frog 35.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.90 m",
-            "weight": "356.44 kg",
-            "length": "2.54 m"
+            "height": 2,
+            "weight": 79,
+            "length": 8
         },
         "found_in_countries": [
             "USA",
@@ -666,17 +666,17 @@
     },
     {
         "_id": 36,
-        "common_name": "Shark 36",
-        "scientific_name": "Species36 genus36",
+        "common_name": "Turtle",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Savannah",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 36.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "0.90 m",
-            "weight": "81.40 kg",
-            "length": "2.75 m"
+            "height": 18,
+            "weight": 54257,
+            "length": 563
         },
         "found_in_countries": [
             "Canada",
@@ -685,17 +685,17 @@
     },
     {
         "_id": 37,
-        "common_name": "Butterfly 37",
-        "scientific_name": "Species37 genus37",
+        "common_name": "Owl",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
-        "habitat": "Ocean",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Lion 37.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.34 m",
-            "weight": "229.75 kg",
-            "length": "0.66 m"
+            "height": 25,
+            "weight": 1305,
+            "length": 66
         },
         "found_in_countries": [
             "USA",
@@ -704,17 +704,17 @@
     },
     {
         "_id": 38,
-        "common_name": "Frog 38",
-        "scientific_name": "Species38 genus38",
+        "common_name": "Crocodile",
+        "scientific_name": "Chelonia mydas",
         "type": "Reptile",
-        "habitat": "Swamp",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Eagle 38.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.98 m",
-            "weight": "284.87 kg",
-            "length": "1.76 m"
+            "height": 33,
+            "weight": 44778,
+            "length": 73
         },
         "found_in_countries": [
             "Canada",
@@ -723,17 +723,17 @@
     },
     {
         "_id": 39,
-        "common_name": "Eagle 39",
-        "scientific_name": "Species39 genus39",
+        "common_name": "Newt",
+        "scientific_name": "Rana temporaria",
         "type": "Amphibian",
         "habitat": "Swamp",
-        "diet": "Carnivore",
+        "diet": "Omnivore",
         "description": "Description of Shark 39.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.66 m",
-            "weight": "211.25 kg",
-            "length": "2.12 m"
+            "height": 9,
+            "weight": 1874,
+            "length": 24
         },
         "found_in_countries": [
             "Australia",
@@ -742,17 +742,17 @@
     },
     {
         "_id": 40,
-        "common_name": "Lion 40",
-        "scientific_name": "Species40 genus40",
+        "common_name": "Newt",
+        "scientific_name": "Bufo bufo",
         "type": "Amphibian",
-        "habitat": "Desert",
-        "diet": "Herbivore",
+        "habitat": "Swamp",
+        "diet": "Omnivore",
         "description": "Description of Lizard 40.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.00 m",
-            "weight": "469.44 kg",
-            "length": "0.80 m"
+            "height": 6,
+            "weight": 4198,
+            "length": 32
         },
         "found_in_countries": [
             "Australia",
@@ -761,17 +761,17 @@
     },
     {
         "_id": 41,
-        "common_name": "Butterfly 41",
-        "scientific_name": "Species41 genus41",
+        "common_name": "Parrot",
+        "scientific_name": "Passer domesticus",
         "type": "Bird",
-        "habitat": "Desert",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Frog 41.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "2.20 m",
-            "weight": "426.71 kg",
-            "length": "2.02 m"
+            "height": 37,
+            "weight": 395,
+            "length": 48
         },
         "found_in_countries": [
             "USA",
@@ -780,17 +780,17 @@
     },
     {
         "_id": 42,
-        "common_name": "Lion 42",
-        "scientific_name": "Species42 genus42",
+        "common_name": "Sparrow",
+        "scientific_name": "Aquila chrysaetos",
         "type": "Bird",
-        "habitat": "Grassland",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Butterfly 42.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "2.13 m",
-            "weight": "76.09 kg",
-            "length": "2.22 m"
+            "height": 13,
+            "weight": 2056,
+            "length": 22
         },
         "found_in_countries": [
             "India",
@@ -799,17 +799,17 @@
     },
     {
         "_id": 43,
-        "common_name": "Butterfly 43",
-        "scientific_name": "Species43 genus43",
+        "common_name": "Tuna",
+        "scientific_name": "Carcharodon carcharias",
         "type": "Fish",
-        "habitat": "Swamp",
-        "diet": "Omnivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Lion 43.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.18 m",
-            "weight": "117.38 kg",
-            "length": "2.58 m"
+            "height": 38,
+            "weight": 50149,
+            "length": 574
         },
         "found_in_countries": [
             "Canada",
@@ -818,17 +818,17 @@
     },
     {
         "_id": 44,
-        "common_name": "Shark 44",
-        "scientific_name": "Species44 genus44",
+        "common_name": "Gecko",
+        "scientific_name": "Lacerta agilis",
         "type": "Reptile",
-        "habitat": "Grassland",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Eagle 44.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.48 m",
-            "weight": "430.64 kg",
-            "length": "2.77 m"
+            "height": 45,
+            "weight": 42853,
+            "length": 478
         },
         "found_in_countries": [
             "China",
@@ -837,17 +837,17 @@
     },
     {
         "_id": 45,
-        "common_name": "Lizard 45",
-        "scientific_name": "Species45 genus45",
+        "common_name": "Parrot",
+        "scientific_name": "Aquila chrysaetos",
         "type": "Bird",
-        "habitat": "Grassland",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Shark 45.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.21 m",
-            "weight": "145.70 kg",
-            "length": "0.53 m"
+            "height": 17,
+            "weight": 644,
+            "length": 112
         },
         "found_in_countries": [
             "India",
@@ -856,17 +856,17 @@
     },
     {
         "_id": 46,
-        "common_name": "Lizard 46",
-        "scientific_name": "Species46 genus46",
+        "common_name": "Shark",
+        "scientific_name": "Carassius auratus",
         "type": "Fish",
         "habitat": "Ocean",
-        "diet": "Omnivore",
+        "diet": "Carnivore",
         "description": "Description of Lizard 46.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.95 m",
-            "weight": "28.08 kg",
-            "length": "1.52 m"
+            "height": 9,
+            "weight": 193491,
+            "length": 425
         },
         "found_in_countries": [
             "India",
@@ -875,17 +875,17 @@
     },
     {
         "_id": 47,
-        "common_name": "Frog 47",
-        "scientific_name": "Species47 genus47",
+        "common_name": "Crocodile",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Savannah",
+        "habitat": "Desert",
         "diet": "Carnivore",
         "description": "Description of Frog 47.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.33 m",
-            "weight": "113.51 kg",
-            "length": "1.87 m"
+            "height": 50,
+            "weight": 51088,
+            "length": 266
         },
         "found_in_countries": [
             "USA",
@@ -894,17 +894,17 @@
     },
     {
         "_id": 48,
-        "common_name": "Frog 48",
-        "scientific_name": "Species48 genus48",
+        "common_name": "Salamander",
+        "scientific_name": "Rana temporaria",
         "type": "Amphibian",
-        "habitat": "Ocean",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Butterfly 48.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.64 m",
-            "weight": "413.61 kg",
-            "length": "0.53 m"
+            "height": 27,
+            "weight": 1802,
+            "length": 50
         },
         "found_in_countries": [
             "China",
@@ -913,17 +913,17 @@
     },
     {
         "_id": 49,
-        "common_name": "Lion 49",
-        "scientific_name": "Species49 genus49",
+        "common_name": "Gecko",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Savannah",
-        "diet": "Omnivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Lion 49.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.12 m",
-            "weight": "196.38 kg",
-            "length": "1.75 m"
+            "height": 12,
+            "weight": 85288,
+            "length": 166
         },
         "found_in_countries": [
             "China",
@@ -932,17 +932,17 @@
     },
     {
         "_id": 50,
-        "common_name": "Eagle 50",
-        "scientific_name": "Species50 genus50",
+        "common_name": "Grasshopper",
+        "scientific_name": "Coleoptera",
         "type": "Insect",
-        "habitat": "Desert",
+        "habitat": "Grassland",
         "diet": "Herbivore",
         "description": "Description of Eagle 50.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "0.63 m",
-            "weight": "286.75 kg",
-            "length": "0.84 m"
+            "height": 3,
+            "weight": 10,
+            "length": 9
         },
         "found_in_countries": [
             "India",
@@ -951,17 +951,17 @@
     },
     {
         "_id": 51,
-        "common_name": "Lizard 51",
-        "scientific_name": "Species51 genus51",
+        "common_name": "Trout",
+        "scientific_name": "Salmo salar",
         "type": "Fish",
-        "habitat": "Savannah",
-        "diet": "Omnivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Shark 51.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.58 m",
-            "weight": "226.07 kg",
-            "length": "2.64 m"
+            "height": 12,
+            "weight": 19440,
+            "length": 253
         },
         "found_in_countries": [
             "South Africa",
@@ -970,17 +970,17 @@
     },
     {
         "_id": 52,
-        "common_name": "Shark 52",
-        "scientific_name": "Species52 genus52",
+        "common_name": "Butterfly",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
-        "habitat": "Desert",
-        "diet": "Omnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Lizard 52.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.27 m",
-            "weight": "410.65 kg",
-            "length": "0.56 m"
+            "height": 4,
+            "weight": 85,
+            "length": 3
         },
         "found_in_countries": [
             "South Africa",
@@ -989,17 +989,17 @@
     },
     {
         "_id": 53,
-        "common_name": "Butterfly 53",
-        "scientific_name": "Species53 genus53",
+        "common_name": "Trout",
+        "scientific_name": "Carcharodon carcharias",
         "type": "Fish",
-        "habitat": "Desert",
+        "habitat": "Ocean",
         "diet": "Carnivore",
         "description": "Description of Frog 53.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "2.24 m",
-            "weight": "136.20 kg",
-            "length": "1.74 m"
+            "height": 45,
+            "weight": 105725,
+            "length": 479
         },
         "found_in_countries": [
             "Russia",
@@ -1008,17 +1008,17 @@
     },
     {
         "_id": 54,
-        "common_name": "Eagle 54",
-        "scientific_name": "Species54 genus54",
+        "common_name": "Bear",
+        "scientific_name": "Ursus arctos",
         "type": "Mammal",
-        "habitat": "Desert",
-        "diet": "Carnivore",
+        "habitat": "Savannah",
+        "diet": "Herbivore",
         "description": "Description of Butterfly 54.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.89 m",
-            "weight": "32.27 kg",
-            "length": "2.28 m"
+            "height": 200,
+            "weight": 300697,
+            "length": 116
         },
         "found_in_countries": [
             "China",
@@ -1027,17 +1027,17 @@
     },
     {
         "_id": 55,
-        "common_name": "Lion 55",
-        "scientific_name": "Species55 genus55",
+        "common_name": "Frog",
+        "scientific_name": "Ichthyophis",
         "type": "Amphibian",
-        "habitat": "Desert",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Lion 55.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "2.45 m",
-            "weight": "168.60 kg",
-            "length": "2.66 m"
+            "height": 7,
+            "weight": 4913,
+            "length": 12
         },
         "found_in_countries": [
             "Russia",
@@ -1046,17 +1046,17 @@
     },
     {
         "_id": 56,
-        "common_name": "Frog 56",
-        "scientific_name": "Species56 genus56",
+        "common_name": "Newt",
+        "scientific_name": "Rana temporaria",
         "type": "Amphibian",
-        "habitat": "Ocean",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Eagle 56.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.18 m",
-            "weight": "169.29 kg",
-            "length": "1.79 m"
+            "height": 28,
+            "weight": 3062,
+            "length": 17
         },
         "found_in_countries": [
             "Canada",
@@ -1065,17 +1065,17 @@
     },
     {
         "_id": 57,
-        "common_name": "Shark 57",
-        "scientific_name": "Species57 genus57",
+        "common_name": "Lion",
+        "scientific_name": "Ursus arctos",
         "type": "Mammal",
         "habitat": "Savannah",
-        "diet": "Carnivore",
+        "diet": "Herbivore",
         "description": "Description of Shark 57.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "0.42 m",
-            "weight": "467.20 kg",
-            "length": "0.70 m"
+            "height": 79,
+            "weight": 519639,
+            "length": 150
         },
         "found_in_countries": [
             "Russia",
@@ -1084,17 +1084,17 @@
     },
     {
         "_id": 58,
-        "common_name": "Frog 58",
-        "scientific_name": "Species58 genus58",
+        "common_name": "Gecko",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Forest",
+        "habitat": "Desert",
         "diet": "Carnivore",
         "description": "Description of Lizard 58.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.88 m",
-            "weight": "256.98 kg",
-            "length": "2.61 m"
+            "height": 36,
+            "weight": 32201,
+            "length": 580
         },
         "found_in_countries": [
             "India",
@@ -1103,17 +1103,17 @@
     },
     {
         "_id": 59,
-        "common_name": "Butterfly 59",
-        "scientific_name": "Species59 genus59",
+        "common_name": "Grasshopper",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
-        "habitat": "Desert",
-        "diet": "Carnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Frog 59.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.30 m",
-            "weight": "444.21 kg",
-            "length": "2.36 m"
+            "height": 2,
+            "weight": 70,
+            "length": 1
         },
         "found_in_countries": [
             "South Africa",
@@ -1122,17 +1122,17 @@
     },
     {
         "_id": 60,
-        "common_name": "Lion 60",
-        "scientific_name": "Species60 genus60",
+        "common_name": "Elephant",
+        "scientific_name": "Loxodonta africana",
         "type": "Mammal",
-        "habitat": "Desert",
+        "habitat": "Savannah",
         "diet": "Herbivore",
         "description": "Description of Butterfly 60.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.07 m",
-            "weight": "134.06 kg",
-            "length": "1.48 m"
+            "height": 238,
+            "weight": 190660,
+            "length": 213
         },
         "found_in_countries": [
             "Russia",
@@ -1141,17 +1141,17 @@
     },
     {
         "_id": 61,
-        "common_name": "Butterfly 61",
-        "scientific_name": "Species61 genus61",
+        "common_name": "Crocodile",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Swamp",
+        "habitat": "Desert",
         "diet": "Carnivore",
         "description": "Description of Lion 61.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "2.40 m",
-            "weight": "171.40 kg",
-            "length": "1.56 m"
+            "height": 27,
+            "weight": 54680,
+            "length": 125
         },
         "found_in_countries": [
             "Australia",
@@ -1160,17 +1160,17 @@
     },
     {
         "_id": 62,
-        "common_name": "Lizard 62",
-        "scientific_name": "Species62 genus62",
+        "common_name": "Bear",
+        "scientific_name": "Cervus elaphus",
         "type": "Mammal",
-        "habitat": "Ocean",
-        "diet": "Omnivore",
+        "habitat": "Savannah",
+        "diet": "Herbivore",
         "description": "Description of Eagle 62.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.19 m",
-            "weight": "424.91 kg",
-            "length": "1.89 m"
+            "height": 187,
+            "weight": 379906,
+            "length": 204
         },
         "found_in_countries": [
             "Australia",
@@ -1179,17 +1179,17 @@
     },
     {
         "_id": 63,
-        "common_name": "Lizard 63",
-        "scientific_name": "Species63 genus63",
+        "common_name": "Goldfish",
+        "scientific_name": "Thunnus thynnus",
         "type": "Fish",
-        "habitat": "Desert",
+        "habitat": "Ocean",
         "diet": "Carnivore",
         "description": "Description of Shark 63.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.96 m",
-            "weight": "194.00 kg",
-            "length": "1.74 m"
+            "height": 33,
+            "weight": 183092,
+            "length": 40
         },
         "found_in_countries": [
             "Brazil",
@@ -1198,17 +1198,17 @@
     },
     {
         "_id": 64,
-        "common_name": "Shark 64",
-        "scientific_name": "Species64 genus64",
+        "common_name": "Parrot",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
-        "habitat": "Swamp",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Lizard 64.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.06 m",
-            "weight": "50.94 kg",
-            "length": "1.03 m"
+            "height": 40,
+            "weight": 4992,
+            "length": 116
         },
         "found_in_countries": [
             "Canada",
@@ -1217,17 +1217,17 @@
     },
     {
         "_id": 65,
-        "common_name": "Frog 65",
-        "scientific_name": "Species65 genus65",
+        "common_name": "Parrot",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
-        "habitat": "Ocean",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Frog 65.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.98 m",
-            "weight": "478.80 kg",
-            "length": "1.72 m"
+            "height": 35,
+            "weight": 1074,
+            "length": 40
         },
         "found_in_countries": [
             "India",
@@ -1236,17 +1236,17 @@
     },
     {
         "_id": 66,
-        "common_name": "Shark 66",
-        "scientific_name": "Species66 genus66",
+        "common_name": "Bee",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
         "habitat": "Grassland",
-        "diet": "Omnivore",
+        "diet": "Herbivore",
         "description": "Description of Butterfly 66.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.65 m",
-            "weight": "369.79 kg",
-            "length": "2.22 m"
+            "height": 2,
+            "weight": 2,
+            "length": 2
         },
         "found_in_countries": [
             "Australia",
@@ -1255,17 +1255,17 @@
     },
     {
         "_id": 67,
-        "common_name": "Frog 67",
-        "scientific_name": "Species67 genus67",
+        "common_name": "Owl",
+        "scientific_name": "Columba livia",
         "type": "Bird",
-        "habitat": "Ocean",
-        "diet": "Carnivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Lion 67.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.85 m",
-            "weight": "127.01 kg",
-            "length": "1.75 m"
+            "height": 14,
+            "weight": 3289,
+            "length": 111
         },
         "found_in_countries": [
             "Brazil",
@@ -1274,17 +1274,17 @@
     },
     {
         "_id": 68,
-        "common_name": "Frog 68",
-        "scientific_name": "Species68 genus68",
+        "common_name": "Eagle",
+        "scientific_name": "Strix aluco",
         "type": "Bird",
-        "habitat": "Ocean",
-        "diet": "Carnivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Eagle 68.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.75 m",
-            "weight": "22.07 kg",
-            "length": "1.17 m"
+            "height": 21,
+            "weight": 3480,
+            "length": 52
         },
         "found_in_countries": [
             "China",
@@ -1293,17 +1293,17 @@
     },
     {
         "_id": 69,
-        "common_name": "Lion 69",
-        "scientific_name": "Species69 genus69",
+        "common_name": "Snake",
+        "scientific_name": "Python regius",
         "type": "Reptile",
-        "habitat": "Forest",
+        "habitat": "Desert",
         "diet": "Carnivore",
         "description": "Description of Shark 69.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.76 m",
-            "weight": "232.13 kg",
-            "length": "2.38 m"
+            "height": 15,
+            "weight": 90021,
+            "length": 99
         },
         "found_in_countries": [
             "India",
@@ -1312,17 +1312,17 @@
     },
     {
         "_id": 70,
-        "common_name": "Eagle 70",
-        "scientific_name": "Species70 genus70",
+        "common_name": "Caecilian",
+        "scientific_name": "Triturus cristatus",
         "type": "Amphibian",
-        "habitat": "Ocean",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Lizard 70.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.17 m",
-            "weight": "458.66 kg",
-            "length": "1.61 m"
+            "height": 11,
+            "weight": 3786,
+            "length": 24
         },
         "found_in_countries": [
             "China",
@@ -1331,17 +1331,17 @@
     },
     {
         "_id": 71,
-        "common_name": "Eagle 71",
-        "scientific_name": "Species71 genus71",
+        "common_name": "Goldfish",
+        "scientific_name": "Thunnus thynnus",
         "type": "Fish",
         "habitat": "Ocean",
-        "diet": "Herbivore",
+        "diet": "Carnivore",
         "description": "Description of Frog 71.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "2.16 m",
-            "weight": "309.95 kg",
-            "length": "1.52 m"
+            "height": 11,
+            "weight": 62746,
+            "length": 560
         },
         "found_in_countries": [
             "South Africa",
@@ -1350,17 +1350,17 @@
     },
     {
         "_id": 72,
-        "common_name": "Lizard 72",
-        "scientific_name": "Species72 genus72",
+        "common_name": "Tuna",
+        "scientific_name": "Carcharodon carcharias",
         "type": "Fish",
-        "habitat": "Desert",
-        "diet": "Omnivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 72.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.39 m",
-            "weight": "6.32 kg",
-            "length": "2.40 m"
+            "height": 27,
+            "weight": 164026,
+            "length": 440
         },
         "found_in_countries": [
             "Canada",
@@ -1369,17 +1369,17 @@
     },
     {
         "_id": 73,
-        "common_name": "Lion 73",
-        "scientific_name": "Species73 genus73",
+        "common_name": "Beetle",
+        "scientific_name": "Caelifera",
         "type": "Insect",
-        "habitat": "Savannah",
-        "diet": "Carnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Lion 73.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.56 m",
-            "weight": "115.23 kg",
-            "length": "2.80 m"
+            "height": 1,
+            "weight": 64,
+            "length": 8
         },
         "found_in_countries": [
             "Australia",
@@ -1388,17 +1388,17 @@
     },
     {
         "_id": 74,
-        "common_name": "Shark 74",
-        "scientific_name": "Species74 genus74",
+        "common_name": "Owl",
+        "scientific_name": "Columba livia",
         "type": "Bird",
-        "habitat": "Ocean",
-        "diet": "Carnivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Eagle 74.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.39 m",
-            "weight": "472.23 kg",
-            "length": "1.33 m"
+            "height": 29,
+            "weight": 4908,
+            "length": 18
         },
         "found_in_countries": [
             "Canada",
@@ -1407,17 +1407,17 @@
     },
     {
         "_id": 75,
-        "common_name": "Lion 75",
-        "scientific_name": "Species75 genus75",
+        "common_name": "Grasshopper",
+        "scientific_name": "Formicidae",
         "type": "Insect",
-        "habitat": "Forest",
+        "habitat": "Grassland",
         "diet": "Herbivore",
         "description": "Description of Shark 75.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "2.05 m",
-            "weight": "246.62 kg",
-            "length": "1.37 m"
+            "height": 4,
+            "weight": 12,
+            "length": 10
         },
         "found_in_countries": [
             "Australia",
@@ -1426,17 +1426,17 @@
     },
     {
         "_id": 76,
-        "common_name": "Butterfly 76",
-        "scientific_name": "Species76 genus76",
+        "common_name": "Gecko",
+        "scientific_name": "Crocodylus niloticus",
         "type": "Reptile",
-        "habitat": "Swamp",
+        "habitat": "Desert",
         "diet": "Carnivore",
         "description": "Description of Lizard 76.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.61 m",
-            "weight": "387.76 kg",
-            "length": "1.41 m"
+            "height": 40,
+            "weight": 87436,
+            "length": 537
         },
         "found_in_countries": [
             "Russia",
@@ -1445,17 +1445,17 @@
     },
     {
         "_id": 77,
-        "common_name": "Lizard 77",
-        "scientific_name": "Species77 genus77",
+        "common_name": "Tiger",
+        "scientific_name": "Panthera tigris",
         "type": "Mammal",
         "habitat": "Savannah",
         "diet": "Herbivore",
         "description": "Description of Frog 77.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "1.39 m",
-            "weight": "204.54 kg",
-            "length": "1.75 m"
+            "height": 299,
+            "weight": 459992,
+            "length": 81
         },
         "found_in_countries": [
             "China",
@@ -1464,17 +1464,17 @@
     },
     {
         "_id": 78,
-        "common_name": "Butterfly 78",
-        "scientific_name": "Species78 genus78",
+        "common_name": "Salmon",
+        "scientific_name": "Salmo salar",
         "type": "Fish",
-        "habitat": "Savannah",
-        "diet": "Herbivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 78.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.36 m",
-            "weight": "79.88 kg",
-            "length": "2.86 m"
+            "height": 18,
+            "weight": 126685,
+            "length": 129
         },
         "found_in_countries": [
             "China",
@@ -1483,17 +1483,17 @@
     },
     {
         "_id": 79,
-        "common_name": "Lion 79",
-        "scientific_name": "Species79 genus79",
+        "common_name": "Salmon",
+        "scientific_name": "Carcharodon carcharias",
         "type": "Fish",
-        "habitat": "Grassland",
-        "diet": "Omnivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Lion 79.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.41 m",
-            "weight": "216.93 kg",
-            "length": "0.75 m"
+            "height": 42,
+            "weight": 51152,
+            "length": 116
         },
         "found_in_countries": [
             "India",
@@ -1502,17 +1502,17 @@
     },
     {
         "_id": 80,
-        "common_name": "Lion 80",
-        "scientific_name": "Species80 genus80",
+        "common_name": "Newt",
+        "scientific_name": "Ichthyophis",
         "type": "Amphibian",
-        "habitat": "Savannah",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Eagle 80.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "2.15 m",
-            "weight": "9.29 kg",
-            "length": "0.95 m"
+            "height": 16,
+            "weight": 2748,
+            "length": 35
         },
         "found_in_countries": [
             "Canada",
@@ -1521,17 +1521,17 @@
     },
     {
         "_id": 81,
-        "common_name": "Lizard 81",
-        "scientific_name": "Species81 genus81",
+        "common_name": "Parrot",
+        "scientific_name": "Columba livia",
         "type": "Bird",
-        "habitat": "Grassland",
-        "diet": "Carnivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Shark 81.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.78 m",
-            "weight": "457.65 kg",
-            "length": "0.54 m"
+            "height": 35,
+            "weight": 3592,
+            "length": 60
         },
         "found_in_countries": [
             "Canada",
@@ -1540,17 +1540,17 @@
     },
     {
         "_id": 82,
-        "common_name": "Butterfly 82",
-        "scientific_name": "Species82 genus82",
+        "common_name": "Frog",
+        "scientific_name": "Bufo bufo",
         "type": "Amphibian",
-        "habitat": "Forest",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Lizard 82.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "1.75 m",
-            "weight": "472.95 kg",
-            "length": "1.58 m"
+            "height": 17,
+            "weight": 3161,
+            "length": 20
         },
         "found_in_countries": [
             "Brazil",
@@ -1559,17 +1559,17 @@
     },
     {
         "_id": 83,
-        "common_name": "Eagle 83",
-        "scientific_name": "Species83 genus83",
+        "common_name": "Pigeon",
+        "scientific_name": "Strix aluco",
         "type": "Bird",
         "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Frog 83.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "2.29 m",
-            "weight": "101.82 kg",
-            "length": "1.51 m"
+            "height": 26,
+            "weight": 4051,
+            "length": 52
         },
         "found_in_countries": [
             "Russia",
@@ -1578,17 +1578,17 @@
     },
     {
         "_id": 84,
-        "common_name": "Shark 84",
-        "scientific_name": "Species84 genus84",
+        "common_name": "Butterfly",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
-        "habitat": "Savannah",
+        "habitat": "Grassland",
         "diet": "Herbivore",
         "description": "Description of Butterfly 84.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.81 m",
-            "weight": "408.47 kg",
-            "length": "1.46 m"
+            "height": 4,
+            "weight": 47,
+            "length": 10
         },
         "found_in_countries": [
             "Russia",
@@ -1597,17 +1597,17 @@
     },
     {
         "_id": 85,
-        "common_name": "Lion 85",
-        "scientific_name": "Species85 genus85",
+        "common_name": "Goldfish",
+        "scientific_name": "Carassius auratus",
         "type": "Fish",
-        "habitat": "Savannah",
-        "diet": "Omnivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Lion 85.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "2.09 m",
-            "weight": "472.23 kg",
-            "length": "2.14 m"
+            "height": 45,
+            "weight": 111923,
+            "length": 81
         },
         "found_in_countries": [
             "Russia",
@@ -1616,17 +1616,17 @@
     },
     {
         "_id": 86,
-        "common_name": "Shark 86",
-        "scientific_name": "Species86 genus86",
+        "common_name": "Caecilian",
+        "scientific_name": "Triturus cristatus",
         "type": "Amphibian",
         "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Eagle 86.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "0.84 m",
-            "weight": "235.70 kg",
-            "length": "0.73 m"
+            "height": 14,
+            "weight": 3955,
+            "length": 45
         },
         "found_in_countries": [
             "USA",
@@ -1635,17 +1635,17 @@
     },
     {
         "_id": 87,
-        "common_name": "Butterfly 87",
-        "scientific_name": "Species87 genus87",
+        "common_name": "Owl",
+        "scientific_name": "Aquila chrysaetos",
         "type": "Bird",
-        "habitat": "Grassland",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Shark 87.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "0.25 m",
-            "weight": "498.10 kg",
-            "length": "0.84 m"
+            "height": 15,
+            "weight": 3123,
+            "length": 32
         },
         "found_in_countries": [
             "South Africa",
@@ -1654,17 +1654,17 @@
     },
     {
         "_id": 88,
-        "common_name": "Frog 88",
-        "scientific_name": "Species88 genus88",
+        "common_name": "Trout",
+        "scientific_name": "Thunnus thynnus",
         "type": "Fish",
-        "habitat": "Grassland",
+        "habitat": "Ocean",
         "diet": "Carnivore",
         "description": "Description of Lizard 88.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "2.25 m",
-            "weight": "21.90 kg",
-            "length": "2.07 m"
+            "height": 46,
+            "weight": 126050,
+            "length": 398
         },
         "found_in_countries": [
             "Australia",
@@ -1673,17 +1673,17 @@
     },
     {
         "_id": 89,
-        "common_name": "Eagle 89",
-        "scientific_name": "Species89 genus89",
+        "common_name": "Beetle",
+        "scientific_name": "Formicidae",
         "type": "Insect",
-        "habitat": "Swamp",
-        "diet": "Carnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Frog 89.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "1.62 m",
-            "weight": "143.44 kg",
-            "length": "2.56 m"
+            "height": 2,
+            "weight": 40,
+            "length": 7
         },
         "found_in_countries": [
             "India",
@@ -1692,17 +1692,17 @@
     },
     {
         "_id": 90,
-        "common_name": "Frog 90",
-        "scientific_name": "Species90 genus90",
+        "common_name": "Goldfish",
+        "scientific_name": "Carassius auratus",
         "type": "Fish",
-        "habitat": "Grassland",
-        "diet": "Herbivore",
+        "habitat": "Ocean",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 90.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "1.43 m",
-            "weight": "377.19 kg",
-            "length": "2.25 m"
+            "height": 43,
+            "weight": 29474,
+            "length": 37
         },
         "found_in_countries": [
             "India",
@@ -1711,17 +1711,17 @@
     },
     {
         "_id": 91,
-        "common_name": "Lizard 91",
-        "scientific_name": "Species91 genus91",
+        "common_name": "Shark",
+        "scientific_name": "Thunnus thynnus",
         "type": "Fish",
         "habitat": "Ocean",
-        "diet": "Omnivore",
+        "diet": "Carnivore",
         "description": "Description of Lion 91.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.89 m",
-            "weight": "265.45 kg",
-            "length": "2.17 m"
+            "height": 15,
+            "weight": 119314,
+            "length": 395
         },
         "found_in_countries": [
             "USA",
@@ -1730,17 +1730,17 @@
     },
     {
         "_id": 92,
-        "common_name": "Lizard 92",
-        "scientific_name": "Species92 genus92",
+        "common_name": "Newt",
+        "scientific_name": "Ambystoma mexicanum",
         "type": "Amphibian",
-        "habitat": "Ocean",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Eagle 92.",
         "conservation_status": "Endangered",
         "physical_characteristics": {
-            "height": "1.75 m",
-            "weight": "75.47 kg",
-            "length": "2.12 m"
+            "height": 15,
+            "weight": 4767,
+            "length": 31
         },
         "found_in_countries": [
             "South Africa",
@@ -1749,17 +1749,17 @@
     },
     {
         "_id": 93,
-        "common_name": "Butterfly 93",
-        "scientific_name": "Species93 genus93",
+        "common_name": "Pigeon",
+        "scientific_name": "Columba livia",
         "type": "Bird",
-        "habitat": "Ocean",
-        "diet": "Herbivore",
+        "habitat": "Forest",
+        "diet": "Omnivore",
         "description": "Description of Shark 93.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.82 m",
-            "weight": "397.17 kg",
-            "length": "1.38 m"
+            "height": 22,
+            "weight": 1050,
+            "length": 25
         },
         "found_in_countries": [
             "USA",
@@ -1768,17 +1768,17 @@
     },
     {
         "_id": 94,
-        "common_name": "Frog 94",
-        "scientific_name": "Species94 genus94",
+        "common_name": "Owl",
+        "scientific_name": "Psittaciformes",
         "type": "Bird",
-        "habitat": "Savannah",
+        "habitat": "Forest",
         "diet": "Omnivore",
         "description": "Description of Lizard 94.",
         "conservation_status": "Critically Endangered",
         "physical_characteristics": {
-            "height": "0.88 m",
-            "weight": "371.38 kg",
-            "length": "1.42 m"
+            "height": 32,
+            "weight": 873,
+            "length": 38
         },
         "found_in_countries": [
             "China",
@@ -1787,17 +1787,17 @@
     },
     {
         "_id": 95,
-        "common_name": "Frog 95",
-        "scientific_name": "Species95 genus95",
+        "common_name": "Turtle",
+        "scientific_name": "Hemidactylus",
         "type": "Reptile",
-        "habitat": "Forest",
-        "diet": "Omnivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Frog 95.",
         "conservation_status": "Near Threatened",
         "physical_characteristics": {
-            "height": "0.97 m",
-            "weight": "423.57 kg",
-            "length": "0.79 m"
+            "height": 50,
+            "weight": 10080,
+            "length": 437
         },
         "found_in_countries": [
             "Brazil",
@@ -1806,17 +1806,17 @@
     },
     {
         "_id": 96,
-        "common_name": "Eagle 96",
-        "scientific_name": "Species96 genus96",
+        "common_name": "Crocodile",
+        "scientific_name": "Lacerta agilis",
         "type": "Reptile",
-        "habitat": "Grassland",
-        "diet": "Herbivore",
+        "habitat": "Desert",
+        "diet": "Carnivore",
         "description": "Description of Butterfly 96.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.21 m",
-            "weight": "402.78 kg",
-            "length": "2.33 m"
+            "height": 36,
+            "weight": 20572,
+            "length": 404
         },
         "found_in_countries": [
             "USA",
@@ -1825,17 +1825,17 @@
     },
     {
         "_id": 97,
-        "common_name": "Lion 97",
-        "scientific_name": "Species97 genus97",
+        "common_name": "Toad",
+        "scientific_name": "Bufo bufo",
         "type": "Amphibian",
-        "habitat": "Ocean",
+        "habitat": "Swamp",
         "diet": "Omnivore",
         "description": "Description of Lion 97.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.85 m",
-            "weight": "198.12 kg",
-            "length": "2.97 m"
+            "height": 19,
+            "weight": 4041,
+            "length": 33
         },
         "found_in_countries": [
             "China",
@@ -1844,17 +1844,17 @@
     },
     {
         "_id": 98,
-        "common_name": "Frog 98",
-        "scientific_name": "Species98 genus98",
+        "common_name": "Deer",
+        "scientific_name": "Cervus elaphus",
         "type": "Mammal",
-        "habitat": "Ocean",
-        "diet": "Carnivore",
+        "habitat": "Savannah",
+        "diet": "Herbivore",
         "description": "Description of Eagle 98.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "1.62 m",
-            "weight": "462.14 kg",
-            "length": "2.64 m"
+            "height": 88,
+            "weight": 390746,
+            "length": 282
         },
         "found_in_countries": [
             "India",
@@ -1863,17 +1863,17 @@
     },
     {
         "_id": 99,
-        "common_name": "Lion 99",
-        "scientific_name": "Species99 genus99",
+        "common_name": "Salamander",
+        "scientific_name": "Ambystoma mexicanum",
         "type": "Amphibian",
         "habitat": "Swamp",
-        "diet": "Herbivore",
+        "diet": "Omnivore",
         "description": "Description of Shark 99.",
         "conservation_status": "Vulnerable",
         "physical_characteristics": {
-            "height": "0.56 m",
-            "weight": "386.27 kg",
-            "length": "1.88 m"
+            "height": 13,
+            "weight": 366,
+            "length": 18
         },
         "found_in_countries": [
             "South Africa",
@@ -1882,17 +1882,17 @@
     },
     {
         "_id": 100,
-        "common_name": "Shark 100",
-        "scientific_name": "Species100 genus100",
+        "common_name": "Grasshopper",
+        "scientific_name": "Lepidoptera",
         "type": "Insect",
-        "habitat": "Swamp",
-        "diet": "Carnivore",
+        "habitat": "Grassland",
+        "diet": "Herbivore",
         "description": "Description of Lizard 100.",
         "conservation_status": "Least Concern",
         "physical_characteristics": {
-            "height": "0.18 m",
-            "weight": "234.52 kg",
-            "length": "0.83 m"
+            "height": 4,
+            "weight": 87,
+            "length": 6
         },
         "found_in_countries": [
             "Australia",
